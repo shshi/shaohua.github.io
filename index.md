@@ -1,12 +1,11 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: /assets/img/my_avatar.jpg
   alt: website picture
 ---
-
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+  Welcome! This is Shi Shaohua's website. I am currently a PhD student at Hong Kong Baptist University. My research intrest lies in AI driven drug discovery.
 </p>
 
 <p>
