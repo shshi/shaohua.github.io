@@ -1,9 +1,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Bay Jekyll Theme
+title: Shi Shaohua
 description: >- # this means to ignore newlines until "baseurl:"
-  Bay is a minimal Jekyll Theme.
+  This is the personal website of Shi Shaohua
 baseurl: "/" # the subpath of the site
 url: "https://shshi.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/my_avatar.jpg
