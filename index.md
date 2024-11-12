@@ -2,7 +2,7 @@
 layout: home
 profile_picture:
   src: /assets/img/my_avatar.jpg
-  alt: website picture
+  alt: my photo
 ---
 <p>
   Welcome! This is Shi Shaohua's website. I am currently a PhD student at Hong Kong Baptist University. My research intrest lies in AI driven drug discovery.
