@@ -15,5 +15,5 @@ items:
     description: MMP-based drug optimization
 ---
 <p>
-  You can find my research work on my <a href="https://scholar.google.com/citations?user=byr8_vAAAAAJ">Google Scholar</a>.
+  You can find my research work on my <a href="https://scholar.google.com/citations?user=byr8_vAAAAAJ">Google Scholar</a> page.
 </p>
