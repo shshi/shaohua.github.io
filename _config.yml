@@ -15,6 +15,7 @@ header:
       slug: /
     - name: Work
     - name: Blog
+    - name: Gallery
 
 footer:
   show_powered_by: true
@@ -22,17 +23,17 @@ footer:
     - type: email
       name: Email
       value: shisha0hua@foxmail.com
-    - type: wechat
-      value: shisha0hua
-      link: "#"
+#    - type: wechat
+#      value: shisha0hua
+#      link: "#"
   follow:
-    - type: twitter
-      name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - type: github
-      name: GitHub
-      link: http://github.com/YourGitHubUsername
+#    - type: twitter
+#      name: Twitter
+#      link: http://twitter.com/YourTwitterUsername
+#      username: "@YourTwitterUsername"
+#    - type: github
+#      name: GitHub
+#      link: http://github.com/YourGitHubUsername
     - type: rss
       name: RSS
       link: /feed.xml
