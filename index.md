@@ -5,7 +5,7 @@ profile_picture:
   alt: my photo
 ---
 <p>
-  Welcome! This is Shi Shaohua's website. I am currently a PhD student at Hong Kong Baptist University. My research intrest lies in AI driven drug discovery.
+  Hi, I am Shaohua, a PhD student at Hong Kong Baptist University, with a research interest in AI-driven drug discovery.
 </p>
 
 <p>
