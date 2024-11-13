@@ -1,0 +1,17 @@
+current directory: /Users/shaohua/Documents/ssh/CS/studio/phd_studio/git_projects/bay/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 -r ./siteconf20241113-50669-1x9r47i.rb extconf.rb
+creating Makefile
+
+current directory: /Users/shaohua/Documents/ssh/CS/studio/phd_studio/git_projects/bay/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /Users/shaohua/Documents/ssh/CS/studio/phd_studio/git_projects/bay/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+ld: warning: search path '/AppleInternal/Library/BuildRoots/4b66fb3c-7dd0-11ef-b4fb-4a83e32a47e1/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.1.Internal.sdk/usr/local/lib' not found
+
+current directory: /Users/shaohua/Documents/ssh/CS/studio/phd_studio/git_projects/bay/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20241113-50669-1qz6jmz
